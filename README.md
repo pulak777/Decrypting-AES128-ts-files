@@ -1,3 +1,10 @@
+## UPDATE :- NO need to go through the later processes, just follow this 3 steps
+* download `youtube-dl`
+* download `ffmpeg` and add this to system `path`
+* run `youtube-dl <url://link.m3u8>`
+
+______________________________________________________________________________________________
+
 To download and merge ts files, enter the file name, master m3u8 link and domain name.
 
 For example,
