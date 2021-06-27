@@ -1,10 +1,10 @@
 ## **STEP 1**
 
-Generate 32bit HEX KEY from 128bit encryption key file (link in the <file_name>.txt file)
+Generate 128bit HEX KEY from 128bit encryption key file (link in the <file_name>.txt file)
 
 `xxd -p <128bit key file name>.key`
 
-you are expected to get a 32bit output like this - **bf8a8a87d912c8aafa73c4454e14fdda**
+you are expected to get a 128bit output like this - **bf8a8a87d912c8aafa73c4454e14fdda**
 
 **Example**
 
